@@ -8,13 +8,13 @@ Yuhen Shen
 
 add some models from the asset store
 
-add a canvas panel, click to start
+add a canvas panel and a on click button, click to start
 add a hover/over growth and shrink animation for the mushroom
-add a animation of skeleton rise up, click the campfire to trigger it
+add an animation of skeleton rise up, click the campfire to trigger it
 add a teleporation pad, step on the pad to teleport from the village to the crystal forest
 add a plane under the forest so the player can stand on it
 add three chests
-add a animation to open the chest, click the chest
+add an animation to open the chest, click the chest
 add a grab function for the weapons
 add a table model to put weapons on and some box colliders for models
 add a Starter scene, click start to change to the main scene
