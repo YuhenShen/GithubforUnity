@@ -1,13 +1,8 @@
-<<<<<<< Updated upstream
-# Assignment
-=======
 # GithubforUnity
 CIM-423 vr project
 Yuhen Shen
->>>>>>> Stashed changes
 
 add some models from the asset store
-
 add a canvas panel and a on click button, click to start
 add a hover/over growth and shrink animation for the mushroom
 add an animation of skeleton rise up, click the campfire to trigger it
