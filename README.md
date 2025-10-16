@@ -6,7 +6,7 @@ add some models from the asset store
 add a canvas panel and a on click button, click to start
 add a hover/over growth and shrink animation for the mushroom
 add an animation of skeleton rise up, click the campfire to trigger it
-add a teleporation pad, step on the pad to teleport from the village to the crystal forest
+add a teleportation pad, step on the pad to teleport from the village to the crystal forest
 add a plane under the forest so the player can stand on it
 add three chests
 add an animation to open the chest, click the chest
